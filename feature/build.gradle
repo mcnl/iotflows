@@ -12,7 +12,11 @@ android {
     buildTypes {
         release {
             minifyEnabled false
+<<<<<<< HEAD
             //proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+=======
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
         }
     }
 }
@@ -23,5 +27,9 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:0.5'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 }

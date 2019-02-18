@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/incremental/mergeDebugFeatureResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
                     "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/values-hdpi-v4/values-hdpi-v4.xml",
+=======
+            "outputFile": "C:\\Users\\badro\\Desktop\\iotflows\\base\\build\\intermediates\\incremental\\mergeDebugFeatureResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\badro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-beta1.aar\\917854c49563230d5b2a6cb79b9c5433\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

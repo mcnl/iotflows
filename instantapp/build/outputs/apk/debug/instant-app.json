@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"applicationId":"com.example.badro.iotflows","instantAppBundle":"/home/CIN/mcnl/Desktop/iotflows/instantapp/build/outputs/apk/debug/instantapp-debug.zip","apkDirectories":["/home/CIN/mcnl/Desktop/iotflows/feature/build/outputs/apk/feature/debug","/home/CIN/mcnl/Desktop/iotflows/base/build/outputs/apk/feature/debug"]}
+=======
+{"applicationId":"com.example.badro.iotflows","instantAppBundle":{"path":"C:\\Users\\badro\\Desktop\\iotflows\\instantapp\\build\\outputs\\apk\\debug\\instantapp-debug.zip"},"apkDirectories":[{"path":"C:\\Users\\badro\\Desktop\\iotflows\\feature\\build\\outputs\\apk\\feature\\debug"},{"path":"C:\\Users\\badro\\Desktop\\iotflows\\base\\build\\outputs\\apk\\feature\\debug"}]}
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40

@@ -1,5 +1,6 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< HEAD
 ADDED from /home/CIN/mcnl/Desktop/iotflows/base/src/main/AndroidManifest.xml:2:1-19:12
 INJECTED from /home/CIN/mcnl/Desktop/iotflows/base/src/main/AndroidManifest.xml:2:1-19:12
 INJECTED from /home/CIN/mcnl/Desktop/iotflows/base/src/main/AndroidManifest.xml:2:1-19:12
@@ -186,3 +187,64 @@ ADDED from [:feature] /home/CIN/mcnl/Desktop/iotflows/feature/build/intermediate
 		ADDED from [:feature] /home/CIN/mcnl/Desktop/iotflows/feature/build/intermediates/merged_manifests/debugFeature/processDebugFeatureManifest/merged/AndroidManifest.xml:36:13-40
 	android:name
 		ADDED from [:feature] /home/CIN/mcnl/Desktop/iotflows/feature/build/intermediates/merged_manifests/debugFeature/processDebugFeatureManifest/merged/AndroidManifest.xml:35:13-79
+=======
+ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:7:5-17:19
+	android:supportsRtl
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:13:9-40
+meta-data#aia-compat-api-min-version
+ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:14:9-16:33
+	android:value
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:16:13-30
+	android:name
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:15:13-54
+uses-sdk
+INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40

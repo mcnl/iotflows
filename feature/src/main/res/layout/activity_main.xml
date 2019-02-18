@@ -7,7 +7,11 @@
     tools:context="com.example.badro.iotflows.feature.MainActivity">
 
 
+<<<<<<< HEAD
     <EditText
+=======
+    <TextView
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
         android:id="@+id/pesquisa"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -15,7 +19,11 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_toStartOf="@+id/botao"
+<<<<<<< HEAD
         android:hint="Pesquise Aqui" />
+=======
+        android:text="Pesquise Aqui" />
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 
     <Button
         android:id="@+id/botao"
@@ -26,12 +34,20 @@
         android:layout_alignParentTop="true"
         android:text="Pesquisar" />
 
+<<<<<<< HEAD
     <ScrollView
+=======
+    <List
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/botao"
         android:id="@+id/list">
+<<<<<<< HEAD
+=======
+        android:layout_below="@id/button"
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 
         <TextView
             android:id="@+id/dados"
@@ -39,5 +55,9 @@
             android:layout_height="match_parent"
             android:hint="Texto aqui!!!" />
 
+<<<<<<< HEAD
     </ScrollView>
+=======
+    </List>
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 </RelativeLayout>
