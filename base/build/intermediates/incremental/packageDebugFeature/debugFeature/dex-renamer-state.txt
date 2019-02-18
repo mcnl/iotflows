@@ -1,0 +1,4 @@
+#Sun Feb 17 20:41:34 ART 2019
+base.0=C\:\\Users\\badro\\Desktop\\iotflows\\base\\build\\intermediates\\transforms\\dexMerger\\feature\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

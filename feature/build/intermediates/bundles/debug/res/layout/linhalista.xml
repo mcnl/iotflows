@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/idUsuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="0000"
+        android:inputType="number"
+        android:singleLine="false"
+        android:textSize="10sp" />
+
+    <EditText
+        android:id="@+id/idnormal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idUsuario"
+        android:layout_toStartOf="@+id/title"
+        android:ems="10"
+        android:hint="0000"
+        android:inputType="number"
+        android:textSize="10sp" />
+
+    <EditText
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/idnormal"
+        android:layout_alignTop="@+id/completo"
+        android:layout_toEndOf="@+id/idUsuario"
+        android:layout_toStartOf="@+id/completo"
+        android:ems="10"
+        android:hint="Text"
+        android:inputType="textMultiLine"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/completo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/idnormal"
+        android:layout_alignBottom="@+id/idnormal"
+        android:layout_alignParentEnd="true"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textSize="50sp"
+        tools:text="+" />
+
+</RelativeLayout>
