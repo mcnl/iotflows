@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/feature/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/packaged_res/release/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/feature/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/packaged_res/release/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

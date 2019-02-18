@@ -1,0 +1,4 @@
+# Referenced at /home/CIN/mcnl/Desktop/iotflows/feature/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:14
+-keep class com.example.badro.iotflows.feature.MainActivity { <init>(...); }
+# Referenced at /home/CIN/mcnl/Desktop/iotflows/feature/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:34
+-keep class com.example.badro.iotflows.feature.pesquisaActivity { <init>(...); }

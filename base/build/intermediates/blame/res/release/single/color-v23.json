@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/color-v23/abc_tint_default.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Mon Feb 18 17:15:51 BRT 2019
+base.0=/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/transforms/dexMerger/feature/debug/0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/transforms/dexMerger/feature/debug/1

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

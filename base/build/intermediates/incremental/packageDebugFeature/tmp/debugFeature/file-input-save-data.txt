@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Feb 18 17:15:51 BRT 2019
+1.base=/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/transforms/dexMerger/feature/debug/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/transforms/dexMerger/feature/debug/1
+1.path=classes.dex

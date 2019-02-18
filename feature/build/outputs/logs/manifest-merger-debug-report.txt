@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+		INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:5:5-25:19
+activity#com.example.badro.iotflows.feature.MainActivity
+ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:6:9-23:20
+	android:name
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:6:19-47
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:example.com+data:pathPattern:/.*+data:scheme:https
+ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:7:13-17:29
+	android:order
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:7:28-45
+action#android.intent.action.VIEW
+ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:10:17-78
+	android:name
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:10:27-75
+category#android.intent.category.DEFAULT
+ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:11:17-76
+	android:name
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:11:27-73
+data
+ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:13:17-16:46
+	android:host
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:14:21-47
+	android:scheme
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:16:21-43
+	android:pathPattern
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:15:21-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.badro.iotflows.feature.pesquisaActivity
+ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:24:9-63
+	android:name
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml:24:19-51
+uses-sdk
+INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+		INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+		ADDED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml
+		INJECTED from /home/CIN/mcnl/Desktop/iotflows/feature/src/main/AndroidManifest.xml

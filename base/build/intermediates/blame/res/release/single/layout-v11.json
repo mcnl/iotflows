@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/layout-v11/notification_media_action.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/layout-v11/notification_template_big_media.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]
