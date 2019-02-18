@@ -2,6 +2,7 @@
     "logs": [
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/incremental/mergeDebugFeatureResources/merged.dir/values/values.xml",
             "map": [
                 {
@@ -45,6 +46,8 @@
                 {
                     "source": "/home/CIN/mcnl/Desktop/iotflows/base/src/main/res/values/colors.xml",
 =======
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
             "outputFile": "C:\\Users\\badro\\Desktop\\iotflows\\base\\build\\intermediates\\incremental\\mergeDebugFeatureResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
@@ -68,6 +71,9 @@
                 },
                 {
                     "source": "C:\\Users\\badro\\Desktop\\iotflows\\base\\src\\main\\res\\values\\colors.xml",
+<<<<<<< HEAD
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
+=======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
                     "from": {
                         "startLines": "4,2,3",
@@ -85,6 +91,7 @@
                     }
                 },
                 {
+<<<<<<< HEAD
 <<<<<<< HEAD
                     "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/7357866f67fb91c21a07580eb12bfa01/res/values/values.xml",
                     "from": {
@@ -107,6 +114,8 @@
                 {
                     "source": "/home/CIN/mcnl/Desktop/iotflows/base/src/main/res/values/strings.xml",
 =======
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
                     "source": "C:\\Users\\badro\\Desktop\\iotflows\\base\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
@@ -146,6 +155,9 @@
                 },
                 {
                     "source": "C:\\Users\\badro\\Desktop\\iotflows\\base\\src\\main\\res\\values\\strings.xml",
+<<<<<<< HEAD
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
+=======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
                     "from": {
                         "startLines": "1",
@@ -161,6 +173,7 @@
                         "endColumns": "45",
                         "endOffsets": "47426"
                     }
+<<<<<<< HEAD
 <<<<<<< HEAD
                 },
                 {
@@ -181,6 +194,8 @@
                         "endColumns": "12",
                         "endOffsets": "48311"
                     }
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
                 }

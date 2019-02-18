@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [{"name":"535efcb6f9a884f963e878e853e3beb2ce642c34","index":0,"scopes":["PROJECT"],"types":["DEX"],"format":"DIRECTORY","present":true},{"name":"main","index":1,"scopes":["EXTERNAL_LIBRARIES"],"types":["DEX"],"format":"DIRECTORY","present":true},{"name":"externalLibs","index":2,"scopes":["EXTERNAL_LIBRARIES"],"types":["DEX"],"format":"DIRECTORY","present":true}]
+=======
+[{"name":"main","index":0,"scopes":["PROJECT","SUB_PROJECTS","EXTERNAL_LIBRARIES"],"types":["DEX"],"format":"DIRECTORY","present":true}]
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
 [{"name":"main","index":0,"scopes":["PROJECT","SUB_PROJECTS","EXTERNAL_LIBRARIES"],"types":["DEX"],"format":"DIRECTORY","present":true}]
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40

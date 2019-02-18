@@ -2,7 +2,10 @@ package com.example.badro.iotflows.feature;
 
 import android.os.AsyncTask;
 <<<<<<< HEAD
+<<<<<<< HEAD
 import android.widget.TextView;
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 
@@ -43,16 +46,22 @@ public class buscaDados extends AsyncTask<Void, Void, Void> {
             for(int i = 0; i < JA.length(); i++){
                 JSONObject JO = (JSONObject) JA.get(i);
 <<<<<<< HEAD
+<<<<<<< HEAD
 
                 dparseado = "Id do Usuario:  " + JO.get("userId") + "\n" +
                             "Id de Uso:  " + JO.get("id") + "\n" +
                             "Titulo:  " + JO.get("title") + "\n" +
                             "Foi completo?:  " + JO.get("completed") + "\n\n\n";
 =======
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
                 dparseado = "userId:" + JO.get("userId") + "\n" +
                             "id:" + JO.get("id") + "\n" +
                             "title:" + JO.get("title") + "\n" +
                             "completed:" + JO.get("userId") + "\n";
+<<<<<<< HEAD
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
+=======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
                 dadoparseados = dadoparseados + dparseado;
             }
@@ -74,7 +83,11 @@ public class buscaDados extends AsyncTask<Void, Void, Void> {
 
         super.onPostExecute(aVoid);
 <<<<<<< HEAD
+<<<<<<< HEAD
         MainActivity.data.setText(this.dadoparseados);
+=======
+        customAdapter.dados = this.dado;
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
         customAdapter.dados = this.dado;
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40

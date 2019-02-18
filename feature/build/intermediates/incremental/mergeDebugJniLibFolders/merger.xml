@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/CIN/mcnl/Desktop/iotflows/feature/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/CIN/mcnl/Desktop/iotflows/feature/src/debug/jniLibs"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="C:\Users\badro\Desktop\iotflows\feature\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\badro\Desktop\iotflows\feature\src\debug\jniLibs"/></dataSet></merger>
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
 <merger version="3"><dataSet config="main"><source path="C:\Users\badro\Desktop\iotflows\feature\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\badro\Desktop\iotflows\feature\src\debug\jniLibs"/></dataSet></merger>
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40

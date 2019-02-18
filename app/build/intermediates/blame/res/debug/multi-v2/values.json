@@ -2,6 +2,7 @@
     "logs": [
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "/home/CIN/mcnl/Desktop/iotflows/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
@@ -64,6 +65,8 @@
                 {
                     "source": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/packaged_res/debug/values/values.xml",
 =======
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
             "outputFile": "C:\\Users\\badro\\Desktop\\iotflows\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
@@ -106,6 +109,9 @@
                 },
                 {
                     "source": "C:\\Users\\badro\\Desktop\\iotflows\\base\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+<<<<<<< HEAD
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
+=======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
                     "from": {
                         "startLines": "2,3,4,5,6",

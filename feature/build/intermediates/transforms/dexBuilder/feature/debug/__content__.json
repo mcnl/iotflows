@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [{"name":"7c1cb90a9ba7afc873499daccb835e85bcd155a2","index":0,"scopes":["PROJECT"],"types":["DEX_ARCHIVE"],"format":"DIRECTORY","present":true}]
+=======
+[{"name":"45f1685606bb2a16174b8304b49ced0951b42fad","index":0,"scopes":["PROJECT"],"types":["DEX_ARCHIVE"],"format":"DIRECTORY","present":true}]
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
 [{"name":"45f1685606bb2a16174b8304b49ced0951b42fad","index":0,"scopes":["PROJECT"],"types":["DEX_ARCHIVE"],"format":"DIRECTORY","present":true}]
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40

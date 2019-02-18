@@ -2,15 +2,21 @@
     "logs": [
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "/home/CIN/mcnl/Desktop/iotflows/base/build/intermediates/incremental/mergeDebugFeatureResources/merged.dir/values-nb/values-nb.xml",
             "map": [
                 {
                     "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/values-nb/values-nb.xml",
 =======
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
             "outputFile": "C:\\Users\\badro\\Desktop\\iotflows\\base\\build\\intermediates\\incremental\\mergeDebugFeatureResources\\merged.dir\\values-nb\\values-nb.xml",
             "map": [
                 {
                     "source": "C:\\Users\\badro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-beta1.aar\\917854c49563230d5b2a6cb79b9c5433\\res\\values-nb\\values-nb.xml",
+<<<<<<< HEAD
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
+=======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",

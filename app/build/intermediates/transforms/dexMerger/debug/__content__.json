@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [{"name":"adae6738116a785d1d8f69f4c0f22b624dbf93c2","index":0,"scopes":["PROJECT"],"types":["DEX"],"format":"DIRECTORY","present":true},{"name":"main","index":1,"scopes":["EXTERNAL_LIBRARIES"],"types":["DEX"],"format":"DIRECTORY","present":true},{"name":":feature-0","index":2,"scopes":["SUB_PROJECTS"],"types":["DEX"],"format":"DIRECTORY","present":true},{"name":":feature-1","index":3,"scopes":["SUB_PROJECTS"],"types":["DEX"],"format":"DIRECTORY","present":true},{"name":":base-0","index":4,"scopes":["SUB_PROJECTS"],"types":["DEX"],"format":"DIRECTORY","present":true},{"name":"externalLibs","index":5,"scopes":["EXTERNAL_LIBRARIES"],"types":["DEX"],"format":"DIRECTORY","present":true}]
+=======
+[{"name":"main","index":0,"scopes":["SUB_PROJECTS","EXTERNAL_LIBRARIES","PROJECT"],"types":["DEX"],"format":"DIRECTORY","present":true}]
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
 [{"name":"main","index":0,"scopes":["SUB_PROJECTS","EXTERNAL_LIBRARIES","PROJECT"],"types":["DEX"],"format":"DIRECTORY","present":true}]
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40

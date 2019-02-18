@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [{"outputType":{"type":"APK"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"app-debug.apk","properties":{}}]
+=======
+[{"outputType":{"type":"APK"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1},"path":"app-debug.apk","properties":{"packageId":"com.example.badro.iotflows","split":"","minSdkVersion":"23"}}]
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
 [{"outputType":{"type":"APK"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1},"path":"app-debug.apk","properties":{"packageId":"com.example.badro.iotflows","split":"","minSdkVersion":"23"}}]
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40

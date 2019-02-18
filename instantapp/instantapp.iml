@@ -25,7 +25,11 @@
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <output url="file://$APPLICATION_HOME_DIR$/bin" />
+=======
+    <output url="file://C:/ProgramData/Microsoft/Windows/Start Menu/Programs/Android Studio" />
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
     <output url="file://C:/ProgramData/Microsoft/Windows/Start Menu/Programs/Android Studio" />
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
@@ -47,6 +51,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/shaders" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     </content>
     <orderEntry type="jdk" jdkName="Android API 27 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -63,6 +68,8 @@
     <orderEntry type="library" name="Gradle: com.android.support:support-vector-drawable-26.0.0-beta1" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-fragment-26.0.0-beta1" level="project" />
 =======
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 26 Platform" jdkType="Android SDK" />
@@ -79,6 +86,9 @@
     <orderEntry type="library" name="com.android.support.constraint:constraint-layout-1.0.2" level="project" />
     <orderEntry type="library" name="com.android.support:animated-vector-drawable-26.0.0-beta1" level="project" />
     <orderEntry type="library" name="com.android.support:support-v4-26.0.0-beta1" level="project" />
+<<<<<<< HEAD
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
+=======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
   </component>
 </module>

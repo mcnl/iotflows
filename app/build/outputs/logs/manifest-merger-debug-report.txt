@@ -1,6 +1,7 @@
 -- Merging decision tree log ---
 manifest
 <<<<<<< HEAD
+<<<<<<< HEAD
 ADDED from /home/CIN/mcnl/Desktop/iotflows/app/src/main/AndroidManifest.xml:1:1-2:48
 INJECTED from /home/CIN/mcnl/Desktop/iotflows/app/src/main/AndroidManifest.xml:1:1-2:48
 INJECTED from /home/CIN/mcnl/Desktop/iotflows/app/src/main/AndroidManifest.xml:1:1-2:48
@@ -185,6 +186,8 @@ MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/CIN/mcnl/.gr
 	android:name
 		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/AndroidManifest.xml:27:13-51
 =======
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 ADDED from C:\Users\badro\Desktop\iotflows\app\src\main\AndroidManifest.xml:1:1-2:48
 INJECTED from C:\Users\badro\Desktop\iotflows\app\src\main\AndroidManifest.xml:1:1-2:48
 INJECTED from C:\Users\badro\Desktop\iotflows\app\src\main\AndroidManifest.xml:1:1-2:48
@@ -364,4 +367,7 @@ MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\badro\.gr
 		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\badro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\917854c49563230d5b2a6cb79b9c5433\AndroidManifest.xml:28:13-41
 	android:name
 		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\badro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\917854c49563230d5b2a6cb79b9c5433\AndroidManifest.xml:27:13-51
+<<<<<<< HEAD
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
+=======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40

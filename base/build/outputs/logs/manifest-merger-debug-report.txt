@@ -1,6 +1,7 @@
 -- Merging decision tree log ---
 manifest
 <<<<<<< HEAD
+<<<<<<< HEAD
 ADDED from /home/CIN/mcnl/Desktop/iotflows/base/src/main/AndroidManifest.xml:2:1-19:12
 INJECTED from /home/CIN/mcnl/Desktop/iotflows/base/src/main/AndroidManifest.xml:2:1-19:12
 INJECTED from /home/CIN/mcnl/Desktop/iotflows/base/src/main/AndroidManifest.xml:2:1-19:12
@@ -188,6 +189,8 @@ ADDED from [:feature] /home/CIN/mcnl/Desktop/iotflows/feature/build/intermediate
 	android:name
 		ADDED from [:feature] /home/CIN/mcnl/Desktop/iotflows/feature/build/intermediates/merged_manifests/debugFeature/processDebugFeatureManifest/merged/AndroidManifest.xml:35:13-79
 =======
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:2:1-19:12
 INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:2:1-19:12
 INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml:2:1-19:12
@@ -247,4 +250,7 @@ INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
 		ADDED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\badro\Desktop\iotflows\base\src\main\AndroidManifest.xml
+<<<<<<< HEAD
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
+=======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40

@@ -1,6 +1,7 @@
 [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "merged": "/home/CIN/mcnl/Desktop/iotflows/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
     },
@@ -1544,6 +1545,8 @@
         "merged": "/home/CIN/mcnl/Desktop/iotflows/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
         "source": "/home/CIN/mcnl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0472c70217e08b0f4c7e25422550066d/res/anim/abc_fade_in.xml"
 =======
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
         "merged": "C:\\Users\\badro\\Desktop\\iotflows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\badro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-beta1.aar\\917854c49563230d5b2a6cb79b9c5433\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
@@ -3082,6 +3085,9 @@
     {
         "merged": "C:\\Users\\badro\\Desktop\\iotflows\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
         "source": "C:\\Users\\badro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-beta1.aar\\917854c49563230d5b2a6cb79b9c5433\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+<<<<<<< HEAD
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
+=======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
     }
 ]

@@ -2,7 +2,10 @@ package com.example.badro.iotflows.feature;
 
 import android.content.Context;
 <<<<<<< HEAD
+<<<<<<< HEAD
 import android.content.Intent;
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 import android.support.v7.app.AppCompatActivity;
@@ -13,7 +16,10 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.Button;
 <<<<<<< HEAD
+<<<<<<< HEAD
 import android.widget.EditText;
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 import android.widget.ListView;
@@ -31,8 +37,12 @@ public class MainActivity extends AppCompatActivity {
     Button click;
     public static TextView data;
 <<<<<<< HEAD
+<<<<<<< HEAD
     public static String searchedString = "Funcionouy";
     public static EditText search;
+=======
+    ListView lista;
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
     ListView lista;
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
@@ -43,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
 
         click = (Button) findViewById(R.id.botao);
         data = (TextView) findViewById(R.id.dados);
+<<<<<<< HEAD
 <<<<<<< HEAD
         search = (EditText) findViewById(R.id.pesquisa);
 
@@ -56,12 +67,17 @@ public class MainActivity extends AppCompatActivity {
                 searchedString = search.getText().toString();
                 startActivity(new Intent(MainActivity.this, pesquisaActivity.class));
 =======
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
         lista = (ListView)findViewById(R.id.list);
         lista.setAdapter(new customAdapter(this));
         click.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
+<<<<<<< HEAD
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
+=======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
             }
         });
@@ -70,8 +86,11 @@ public class MainActivity extends AppCompatActivity {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 class umaLinha {
     String Titulo;
     String Id;
@@ -154,5 +173,9 @@ class customAdapter extends BaseAdapter{
         }
         return row;
     }
+<<<<<<< HEAD
+}
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
+=======
 }
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40

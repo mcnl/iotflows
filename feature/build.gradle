@@ -13,7 +13,11 @@ android {
         release {
             minifyEnabled false
 <<<<<<< HEAD
+<<<<<<< HEAD
             //proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+=======
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
@@ -28,7 +32,11 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:0.5'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
     
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40

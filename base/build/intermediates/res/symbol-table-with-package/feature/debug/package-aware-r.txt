@@ -1,5 +1,6 @@
 com.example.badro.iotflows
 <<<<<<< HEAD
+<<<<<<< HEAD
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1219,6 +1220,8 @@ styleable View android_theme android_focusable paddingEnd paddingStart theme
 styleable ViewBackgroundHelper android_background backgroundTint backgroundTintMode
 styleable ViewStubCompat android_id android_layout android_inflatedId
 =======
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 int anim abc_fade_in 0x7f010000
 int anim abc_fade_out 0x7f010001
 int anim abc_grow_fade_in_from_bottom 0x7f010002
@@ -2907,4 +2910,7 @@ int[] styleable ViewStubCompat { 0x010100d0, 0x010100f2, 0x010100f3 }
 int styleable ViewStubCompat_android_id 0
 int styleable ViewStubCompat_android_layout 1
 int styleable ViewStubCompat_android_inflatedId 2
+<<<<<<< HEAD
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
+=======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40

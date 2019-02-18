@@ -22,7 +22,10 @@
             </intent-filter>
         </activity>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <activity android:name=".pesquisaActivity"></activity>
+=======
+>>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
 =======
 >>>>>>> d92ae044b9eadec79bdd3b859a1db0e52b89aa40
     </application>
